@@ -40,7 +40,7 @@ export default function Navbar() {
       transition={{ duration: 0.6 }}
     >
       <a href="#" className="text-[#6b8ebf] font-mono font-bold text-xl tracking-tight">
-        &lt;YN /&gt;
+       Shagun
       </a>
 
       {/* Desktop Nav */}
